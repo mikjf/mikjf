@@ -6,4 +6,4 @@
 - 🎒 Meanwhile I'm focusing on getting more and more projects on GitHub
 - 🎾 I enjoy playing tennis
 - 🍳 Still looking for the perfect beef wellington recipe
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/flurymichael/)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/flurymichael/)
