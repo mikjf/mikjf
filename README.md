@@ -1,9 +1,8 @@
 ### Hello there 👋
 
-- 🥷 My name is Michael
-- 💼 Former food tech & digital strategy entrepreneur
-- 🔍 Eager to venture into new horizons
-- 🎒 Ongoing projects showcased on GitHub
+- 🥷 My name is Michael, bridging analytics, systems and business strategy
+- 📊 Focused on data-driven systems, forecasting and operational performance
+- 🏭 Working across manufacturing analytics, digital platforms and business strategy
 - 🎾 Tennis enthusiast
 - 🍳 On a quest for the ultimate beef wellington recipe
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/flurymichael/)
